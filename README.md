@@ -2,6 +2,7 @@
 
 - .Net7
 - CQRS pattern
+- MediatR
 - Elasticsearch
 - Repository
 - Security
