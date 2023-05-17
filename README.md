@@ -1,4 +1,4 @@
-# Senior Level Course NLayer Architecture
+# Senior Level Course NLayer Monotic Architecture
 
 - .Net7
 - CQRS pattern
