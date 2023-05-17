@@ -51,7 +51,7 @@ public class JwtHelper : ITokenHelper
         return refreshToken;
     }
 
-    public JwtSecurityToken CreateJwtSecurityToken(TokenOptions tokenOptions, User user,
+    private JwtSecurityToken CreateJwtSecurityToken(TokenOptions tokenOptions, User user,
                                                    SigningCredentials signingCredentials,
                                                    IList<OperationClaim> operationClaims)
     {
